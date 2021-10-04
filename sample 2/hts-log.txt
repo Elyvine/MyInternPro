@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 30 Sep 2021 10:57:04 at http://brom.c-kav.com/preview-demos/index-07.html# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://brom.c-kav.com/preview-demos/index-07.html# -O1 "C:\My Web Sites\sample 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:01:28	Error: 	"Not Found" (404) at link brom.c-kav.com/preview-demos/images/favicons/apple-touch-icon.png (from brom.c-kav.com/preview-demos/index-07.html)
+11:01:28	Error: 	"Not Found" (404) at link brom.c-kav.com/preview-demos/images/favicons/apple-touch-icon-72x72.png (from brom.c-kav.com/preview-demos/index-07.html)
+11:01:28	Error: 	"Not Found" (404) at link brom.c-kav.com/preview-demos/images/favicons/apple-touch-icon-114x114.png (from brom.c-kav.com/preview-demos/index-07.html)
+11:07:29	Warning: 	Retry after error -2 (Receive Time Out) at link brom.c-kav.com/preview-demos/images/bg-04.jpg (from brom.c-kav.com/preview-demos/index-07.html)
+11:07:30	Warning: 	Retry after error -2 (Receive Time Out) at link brom.c-kav.com/preview-demos/images/grid-portfolio-02.jpg (from brom.c-kav.com/preview-demos/index-07.html)
+11:07:32	Warning: 	Retry after error -2 (Receive Time Out) at link brom.c-kav.com/preview-demos/images/400x500-03.jpg (from brom.c-kav.com/preview-demos/index-07.html)
+11:07:33	Warning: 	Retry after error -2 (Receive Time Out) at link brom.c-kav.com/preview-demos/images/400x400-03.jpg (from brom.c-kav.com/preview-demos/index-07.html)
+11:07:38	Warning: 	Retry after error -2 (Receive Time Out) at link brom.c-kav.com/preview-demos/fonticons/fontawesome/webfonts/fa-solid-900.eot (from brom.c-kav.com/preview-demos/fonticons/fontawesome/css/all.min.css)
+11:07:38	Warning: 	Retry after error -2 (Receive Time Out) at link brom.c-kav.com/preview-demos/fonticons/fontawesome/webfonts/fa-solid-900.woff2 (from brom.c-kav.com/preview-demos/fonticons/fontawesome/css/all.min.css)
+11:07:43	Warning: 	Retry after error -2 (Receive Time Out) at link brom.c-kav.com/preview-demos/fonticons/fontawesome/webfonts/fa-solid-900.ttf (from brom.c-kav.com/preview-demos/fonticons/fontawesome/css/all.min.css)
+11:09:12	Warning: 	Retry after error -2 (Receive Time Out) at link brom.c-kav.com/preview-demos/fonticons/pixeden/Pe-icon-7-stroke.svg?d7yf1v (from brom.c-kav.com/preview-demos/fonticons/pixeden/pe-icon-7-stroke.css)
+11:09:13	Error: 	"Not Found" (404) at link brom.c-kav.com/preview-demos/vendor/owlcarousel/owl.video.play.png (from brom.c-kav.com/preview-demos/vendor/owlcarousel/owl.carousel.min.css)
+11:09:13	Error: 	"Not Found" (404) at link brom.c-kav.com/preview-demos/popper.js (from brom.c-kav.com/preview-demos/vendor/bootstrap/js/bootstrap.min.js)
+11:09:13	Error: 	"Not Found" (404) at link brom.c-kav.com/preview-demos/Trident/ (from brom.c-kav.com/preview-demos/vendor/jarallax/jarallax.min.js)
+11:09:13	Error: 	"Not Found" (404) at link brom.c-kav.com/preview-demos/Edge/ (from brom.c-kav.com/preview-demos/vendor/jarallax/jarallax.min.js)
+11:09:13	Error: 	"Not Found" (404) at link brom.c-kav.com/preview-demos/Version/ (from brom.c-kav.com/preview-demos/vendor/swiper/js/swiper.min.js)
+11:09:13	Error: 	"Not Found" (404) at link brom.c-kav.com/preview-demos/version/ (from brom.c-kav.com/preview-demos/vendor/swiper/js/swiper.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 13 seconds : 110 links scanned, 92 files written (12892023 bytes overall) [7433624 bytes received at 10141 bytes/sec], 7157326 bytes transferred using HTTP compression in 50 files, ratio 22%, 1.8 requests per connection
+(9 errors, 8 warnings, 0 messages)
